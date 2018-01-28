@@ -150,6 +150,8 @@ namespace CardlessWcf
 
         public string Transferencia(String Token, String numCuentaDeRetiro, String NumCuentaDeDeposito, String Motivo, String Monto)
         {
+            try
+            {
 
             var resRetCnt=Encriptar(numCuentaDeRetiro);
             var client = new RestClient("http://217.32.246.192:9091/ESBConnector/esb/core/transaction");
@@ -168,8 +170,13 @@ namespace CardlessWcf
             String IDTransaccion = HerramientasGeneralesStaticas.ResultadoBusqueda(Datatem, "transactionId");
             String EverestTrans = HerramientasGeneralesStaticas.ResultadoBusqueda(Datatem, "everest_ref");
             return "" + Codigo + "," + Message + "," + IDAutorizacion + "," + IDTransaccion + "," + EverestTrans;
-            // new ResultadoTransaccion(Codigo, Message, IDAutorizacion, IDTransaccion, EverestTrans);
+                // new ResultadoTransaccion(Codigo, Message, IDAutorizacion, IDTransaccion, EverestTrans);
 
+            }
+            catch(Exception erc)
+            {
+                return erc.Message;
+            }
         }
 
         public string Encriptar(string original)

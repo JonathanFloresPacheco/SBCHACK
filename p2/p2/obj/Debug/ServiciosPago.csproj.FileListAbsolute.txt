@@ -1,0 +1,132 @@
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\obj\Debug\ServiciosPago.csprojResolveAssemblyReference.cache
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\bin\Debug\p2.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\bin\Debug\p2.pdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\bin\Debug\p2.p2.apk
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\bin\Debug\p2.p2-Signed.apk
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\obj\Debug\ServiciosPago.csproj.CoreCompileInputs.cache
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\obj\Debug\p2.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\obj\Debug\p2.pdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\obj\Debug\android\bin\p2.p2.apk
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\obj\Debug\res\layout\main.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\obj\Debug\res\values\strings.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\obj\Debug\R.cs.flag
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\obj\Debug\uploadflags.txt
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\bin\Debug\p2.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\p2\p2\obj\Debug\android\assets\p2.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\p2.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\p2.pdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\p2.p2.apk
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\p2.p2-Signed.apk
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\CameraSourceBindings.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\FastAndroidCamera.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\FormsViewGroup.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Google.Apis.Core.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Google.Apis.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Newtonsoft.Json.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\QRCoder.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Rb.Forms.Barcode.Droid.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Rb.Forms.Barcode.Pcl.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.Annotations.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.Compat.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.Design.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.Fragment.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.Transition.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.v4.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Core.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Platform.Android.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Platform.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Xaml.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.GooglePlayServices.Vision.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\ZKWeb.System.Drawing.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\ZXing.Net.Mobile.Core.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\zxing.portable.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\ZXingNetMobile.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\FastAndroidCamera.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\FormsViewGroup.pdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\FormsViewGroup.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Google.Apis.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Google.Apis.Core.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Newtonsoft.Json.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Core.pdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Core.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Core.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Xaml.pdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Xaml.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\ServiciosPago.csproj.CoreCompileInputs.cache
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\p2.dll
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\p2.pdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\android\bin\p2.p2.apk
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\res\layout\qrcode.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\res\layout\qrgen.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\res\layout\reguser.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\res\layout\loguser.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\res\layout\main.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\res\values\strings.xml
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\R.cs.flag
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\uploadflags.txt
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\p2.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\android\assets\p2.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\obj\Debug\ServiciosPago.csprojResolveAssemblyReference.cache
+R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\p2\bin\Debug\p2.dll
+bin\Debug\Microsoft.CSharp.pdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.Data.pdb
+bin\Debug\System.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Web.Services.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Transactions.pdb
+bin\Debug\Mono.Data.Tds.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+bin\Debug\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\p2.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Web.Services.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb

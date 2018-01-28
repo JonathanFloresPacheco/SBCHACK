@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\CardlessWcf\CardlessWcf\obj\Release\Package\PackageTmp" />
+  <setAcl path="R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\CardlessWcf\CardlessWcf\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="R:\Sortek\Sortek\C# Jonathan\Jonathan\Android\P2\AppAndroidXamarin\p2\CardlessWcf\CardlessWcf\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
