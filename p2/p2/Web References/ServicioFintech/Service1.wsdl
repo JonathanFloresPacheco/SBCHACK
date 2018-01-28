@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://wcf1nt3ch2018.azurewebsites.net/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://wcf1nt3ch2018.azurewebsites.net/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://wcf1nt3ch2018.azurewebsites.net/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/CardlessWcf" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_GetMovtos_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetMovtos" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetMovtos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetMovtosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertMovtos_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertMovtos" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertMovtos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertMovtosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_CrearSession_InputMessage">
+    <wsdl:part name="parameters" element="tns:CrearSession" />
+  </wsdl:message>
+  <wsdl:message name="IService1_CrearSession_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CrearSessionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SolicitudDelogin_InputMessage">
+    <wsdl:part name="parameters" element="tns:SolicitudDelogin" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SolicitudDelogin_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SolicitudDeloginResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ConsultaDeSaldo_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultaDeSaldo" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ConsultaDeSaldo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultaDeSaldoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Transferencia_InputMessage">
+    <wsdl:part name="parameters" element="tns:Transferencia" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Transferencia_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TransferenciaResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="GetMovtos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetMovtos" message="tns:IService1_GetMovtos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetMovtosResponse" message="tns:IService1_GetMovtos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertMovtos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertMovtos" message="tns:IService1_InsertMovtos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertMovtosResponse" message="tns:IService1_InsertMovtos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CrearSession">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/CrearSession" message="tns:IService1_CrearSession_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/CrearSessionResponse" message="tns:IService1_CrearSession_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SolicitudDelogin">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SolicitudDelogin" message="tns:IService1_SolicitudDelogin_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SolicitudDeloginResponse" message="tns:IService1_SolicitudDelogin_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaDeSaldo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/ConsultaDeSaldo" message="tns:IService1_ConsultaDeSaldo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/ConsultaDeSaldoResponse" message="tns:IService1_ConsultaDeSaldo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Transferencia">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Transferencia" message="tns:IService1_Transferencia_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/TransferenciaResponse" message="tns:IService1_Transferencia_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetMovtos">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetMovtos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertMovtos">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertMovtos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CrearSession">
+      <soap:operation soapAction="http://tempuri.org/IService1/CrearSession" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SolicitudDelogin">
+      <soap:operation soapAction="http://tempuri.org/IService1/SolicitudDelogin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaDeSaldo">
+      <soap:operation soapAction="http://tempuri.org/IService1/ConsultaDeSaldo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Transferencia">
+      <soap:operation soapAction="http://tempuri.org/IService1/Transferencia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://wcf1nt3ch2018.azurewebsites.net/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardlessWcf", "CardlessWcf\CardlessWcf.csproj", "{02C328A8-D687-49E4-814B-6A0F439EE047}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "CardlessWcf.Azure", "CardlessWcf.Azure\CardlessWcf.Azure.ccproj", "{F0E00C4D-CAF3-49EA-AAF8-2ADEC816F5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C328A8-D687-49E4-814B-6A0F439EE047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C328A8-D687-49E4-814B-6A0F439EE047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C328A8-D687-49E4-814B-6A0F439EE047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C328A8-D687-49E4-814B-6A0F439EE047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E00C4D-CAF3-49EA-AAF8-2ADEC816F5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E00C4D-CAF3-49EA-AAF8-2ADEC816F5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E00C4D-CAF3-49EA-AAF8-2ADEC816F5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E00C4D-CAF3-49EA-AAF8-2ADEC816F5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46180630-A3BB-4E3F-92AF-65387B8DACFB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/qrCodeView"
+        android:layout_marginBottom="40.0dp" />
+    <Button
+        android:text="Generar QR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scannerButton"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/abc_action_bar_stacked_tab_max_width" />
+  <Button
+      android:text="Salir"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/btnSalir"
+      android:gravity="center"
+      android:layout_marginTop="@dimen/abc_action_bar_stacked_tab_max_width" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtResult" />
+</LinearLayout>
